@@ -1,0 +1,38 @@
+<annotation>
+	<folder>Gorila extra</folder>
+	<filename>2444.jpg</filename>
+	<path>/home/kevin/Escritorio/Gorila extra/2444.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>620</width>
+		<height>388</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gorila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>184</xmin>
+			<ymin>87</ymin>
+			<xmax>390</xmax>
+			<ymax>364</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gorila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>390</xmin>
+			<ymin>106</ymin>
+			<xmax>539</xmax>
+			<ymax>325</ymax>
+		</bndbox>
+	</object>
+</annotation>
