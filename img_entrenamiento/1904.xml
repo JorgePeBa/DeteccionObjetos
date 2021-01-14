@@ -1,0 +1,38 @@
+<annotation>
+	<folder>imagenes gorila</folder>
+	<filename>1904.jpg</filename>
+	<path>/home/kevin/Escritorio/imagenes gorila/1904.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Gorila</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>18</xmin>
+			<ymin>1</ymin>
+			<xmax>192</xmax>
+			<ymax>170</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gorila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>198</xmin>
+			<ymin>21</ymin>
+			<xmax>277</xmax>
+			<ymax>156</ymax>
+		</bndbox>
+	</object>
+</annotation>
