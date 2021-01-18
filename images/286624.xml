@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Jorge</folder>
+	<filename>2707.jpg</filename>
+	<path>/home/kevin/Escritorio/Jorge/2707.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jorge</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>228</xmin>
+			<ymin>1224</ymin>
+			<xmax>928</xmax>
+			<ymax>1749</ymax>
+		</bndbox>
+	</object>
+</annotation>
